@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="3" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.228092">
+<testcase classname="car insurance renewal" name="To validate whether user is landed on the homepage" time="0.214403">
+<failure message="java.lang.NullPointerException&#10;&#9;at java.util.Objects.requireNonNull(Objects.java:203)&#10;&#9;at org.openqa.selenium.support.ui.FluentWait.&lt;init&gt;(FluentWait.java:106)&#10;&#9;at org.openqa.selenium.support.ui.WebDriverWait.&lt;init&gt;(WebDriverWait.java:85)&#10;&#9;at org.openqa.selenium.support.ui.WebDriverWait.&lt;init&gt;(WebDriverWait.java:45)&#10;&#9;at com.arka.e2etest.stepdefinitions.Homepage.user_select_the_product_as(Homepage.java:87)&#10;&#9;at ✽.Given User select the product as &quot;car&quot;(src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature:21)&#10;"><![CDATA[Given User select the product as "car"......................................failed
+When User enter the car number as "TN-34-AY-2345"...........................skipped
+And User clicks on Get Quotes button........................................skipped
+Then User verify the zoop status............................................skipped
+
+StackTrace:
+java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:203)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:106)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:45)
+	at com.arka.e2etest.stepdefinitions.Homepage.user_select_the_product_as(Homepage.java:87)
+	at ✽.Given User select the product as "car"(src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature:21)
+]]></failure>
+</testcase>
+<testcase classname="car insurance renewal" name="Validation of enquiry page with zoop" time="0.006705">
+<failure message="java.lang.NullPointerException&#10;&#9;at java.util.Objects.requireNonNull(Objects.java:203)&#10;&#9;at org.openqa.selenium.support.ui.FluentWait.&lt;init&gt;(FluentWait.java:106)&#10;&#9;at org.openqa.selenium.support.ui.WebDriverWait.&lt;init&gt;(WebDriverWait.java:85)&#10;&#9;at org.openqa.selenium.support.ui.WebDriverWait.&lt;init&gt;(WebDriverWait.java:45)&#10;&#9;at com.arka.e2etest.stepdefinitions.Enquirypage.user_edits_the_zoop_manufacturer_year_as(Enquirypage.java:352)&#10;&#9;at ✽.Given User edits the zoop manufacturer year as &quot;3223&quot;(src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature:31)&#10;"><![CDATA[Given User edits the zoop manufacturer year as "3223".......................failed
+When User edits the zoop registration date as "3232"........................skipped
+And User edits the zoop policy expiry date as "3232"........................skipped
+And User clicks the proceed button..........................................skipped
+And User select policy claim status ""......................................skipped
+And User select the vehicle ownership change status in zoop flow "".........skipped
+And User select the value of NCB status in zoop flow "".....................skipped
+And User select the NCB percentage in zoop flow ""..........................skipped
+Then User clicks the submit button..........................................skipped
+
+StackTrace:
+java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:203)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:106)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:45)
+	at com.arka.e2etest.stepdefinitions.Enquirypage.user_edits_the_zoop_manufacturer_year_as(Enquirypage.java:352)
+	at ✽.Given User edits the zoop manufacturer year as "3223"(src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature:31)
+]]></failure>
+</testcase>
+<testcase classname="car insurance renewal" name="Quotes page" time="0.006984">
+<failure message="java.lang.NullPointerException&#10;&#9;at java.util.Objects.requireNonNull(Objects.java:203)&#10;&#9;at org.openqa.selenium.support.ui.FluentWait.&lt;init&gt;(FluentWait.java:106)&#10;&#9;at org.openqa.selenium.support.ui.WebDriverWait.&lt;init&gt;(WebDriverWait.java:85)&#10;&#9;at org.openqa.selenium.support.ui.WebDriverWait.&lt;init&gt;(WebDriverWait.java:45)&#10;&#9;at com.arka.e2etest.stepdefinitions.Quotespage.user_edit_the_IDV_value_as(Quotespage.java:283)&#10;&#9;at ✽.And User edit the IDV value as &quot;&quot;(src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature:72)&#10;"><![CDATA[Given User is landed on the quotes page successfully........................passed
+And User edit the IDV value as ""...........................................failed
+And User choose the PAOwnerDriver option as ""..............................skipped
+And User select the policy type as "".......................................skipped
+And User select the vahicleowned by option..................................skipped
+And User select the multitenure option as ""................................skipped
+Then User get the quotes details............................................skipped
+And User select the compare page............................................skipped
+And User click the buy from compare page....................................skipped
+When User clicks the motor buy button as "".................................skipped
+
+StackTrace:
+java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:203)
+	at org.openqa.selenium.support.ui.FluentWait.<init>(FluentWait.java:106)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.WebDriverWait.<init>(WebDriverWait.java:45)
+	at com.arka.e2etest.stepdefinitions.Quotespage.user_edit_the_IDV_value_as(Quotespage.java:283)
+	at ✽.And User edit the IDV value as ""(src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature:72)
+]]></failure>
+</testcase>
+</testsuite>

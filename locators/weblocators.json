@@ -1,0 +1,2949 @@
+{
+  "car_flow": {
+    "type": "id",
+    "locator": "homepagecar"
+  },
+  "bike_flow": {
+    "type": "id",
+    "locator": "homepagebike"
+  },
+  "insurertypes":{
+    "type": "className",
+    "locator": "MuiPopover-paper"
+  },
+  "suminsuredrange": {
+    "type": "id",
+    "locator": "suminsuredrange"
+  },
+  "addressArea": {
+    "type": "id",
+    "locator": "MuiList-root"
+  },
+  "paownerdriver": {
+    "type": "className",
+    "locator": "paownerdriver"
+  },
+  "acpuccertificateno": {
+    "type": "className",
+    "locator": "acpuccertificateno"
+  },
+  "acpucexpirydate": {
+    "type": "className",
+    "locator": "acpucexpirydate"
+  },
+
+  "newcar": {
+    "type": "className",
+    "locator": "newcar"
+  },
+  "policyType_odonly": {
+    "type": "className",
+    "locator": "odonly"
+  },
+  "homeIcon": {
+    "type": "className",
+    "locator": "homeIcon"
+  },
+  "rtocity": {
+    "type": "className",
+    "locator": "homepagecity"
+  },
+
+  "editblock": {
+    "type": "className",
+    "locator": "editblock"
+  },
+
+  "editenquiryclose": {
+    "type": "className",
+    "locator": "editclose"
+  },
+  "vehicleName": {
+    "type": "className",
+    "locator": "vehicleName"
+  },
+  "ViewMoreSliderWrapper":{
+    "type": "className",
+    "locator": "ViewMoreSliderWrapper"
+  },
+  "SummaryClaimedExistingPolicy":{
+    "type": "className",
+    "locator" : "SummaryClaimedExistingPolicy"
+  },
+  "SummaryManufacturedate": {
+    "type": "className",
+    "locator": "SummaryManufacturedate"
+  },
+  "SummaryOwnership": {
+    "type": "className",
+    "locator": "SummaryOwnership"
+  },
+  "SummaryNcbPercent": {
+    "type": "className",
+    "locator": "SummaryNcbPercent"
+  },
+  "SummaryNcbProtecter": {
+    "type": "className",
+    "locator": "SummaryNcbProtecter"
+  },
+  "SummaryNcbProtEnquiry": {
+    "type": "className",
+    "locator": "NCBProtector"
+  },
+  "SummaryRtoCode": {
+    "type": "className",
+    "locator": "SummaryRtoCode"
+  },
+  "summarycompanyName": {
+    "type": "className",
+    "locator": "summarycompanyName"
+  },
+  "ValidationErrorComponent":{
+    "type": "xpath",
+    "locator": "//textarea[@class='ValidationErrorComponent-sc-1s8a07b-0 bpmiSR']"
+  },
+  "car_regno": {
+    "type": "id",
+    "locator": "homecarno"
+  },
+  "bike_regno": {
+    "type": "id",
+    "locator": "homecarno"
+  },
+  "zoop_check": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div/div[1]/div[2]/div/div/div[3]/div/span"
+  },
+  "yearOfMFG": {
+    "type": "className",
+    "locator": "yearOfMFG"
+  },
+  "registrationDate": {
+    "type": "className",
+    "locator": "registrationDate"
+  },
+  "policyEndDate": {
+    "type": "className",
+    "locator": "policyEndDate"
+  },
+  "continuebtn": {
+    "type": "className",
+    "locator": "continue"
+  },
+  "getquotes": {
+    "type": "className",
+    "locator": "getquotes"
+  },
+  "selectmake": {
+    "type": "className",
+    "locator": "homepage_Make"
+  },
+  "checkselectmake": {
+    "type": "className",
+    "locator": "SummaryVehicle"
+  },
+  "vehicle_loan_yes": {
+    "type": "className",
+    "locator": "vehicle_loan_yes"
+  },
+  "vehicle_loan_no": {
+    "type": "className",
+    "locator": "vehicle_loan_no"
+  },
+  "existingloan_provider":{
+    "type": "className",
+    "locator": "existingloan_provider"
+  },
+  "existingloan_providerbranch":{
+    "type": "className",
+    "locator": "existingloan_providerbranch"
+  },
+  "loanproviderbranchlist":{
+    "type": "className",
+    "locator": "loanproviderbranchlist"
+  },
+  "selectyear": {
+    "type": "className",
+    "locator": "homepage_Year"
+  },
+  "FatherDOB": {
+    "type": "className",
+    "locator": "FatherDOB"
+  },
+  "MotherDOB": {
+    "type": "className",
+    "locator": "MotherDOB"
+  },
+  "selectmodel": {
+    "type": "className",
+    "locator": "homepage_Model"
+  },
+  "selectfueltype": {
+    "type": "className",
+    "locator": "homepage_Fuel"
+  },
+  "selectvariant": {
+    "type": "className",
+    "locator": "homepage_Variant"
+  },
+  "personalnomineeAge": {
+    "type": "className",
+    "locator": "age"
+  },
+  "selectcc": {
+    "type": "className",
+    "locator": "homepage_CC"
+  },
+  "selectIDV":{
+    "type": "className",
+    "locator": "selectIDV"
+  },
+  "dob": {
+    "type": "id",
+    "locator": "aidob"
+  },
+  "stardob": {
+    "type": "className",
+    "locator": "selfdob"
+  },
+  "nomineedob": {
+    "type": "id",
+    "locator": "ainomineedob"
+  },
+
+  "checksummaryDOB":{
+    "type": "className",
+    "locator": "dob"
+  },
+  "checksummarypanCardno":{
+    "type": "className",
+    "locator": "pancard"
+  },
+  "checksummaryAdhaar":{
+    "type": "className",
+    "locator": "aadhar"
+  },
+  "communicationInfo":{
+    "type": "className",
+    "locator": "communicationinfo"
+  },
+  "checksummaryAddress":{
+    "type": "className",
+    "locator": "address"
+  },
+  "claimed": {
+    "type": "className",
+    "locator": "isClaimed_radiobtn"
+  },
+  "selectncb": {
+    "type": "className",
+    "locator": "homeprevious_ncb"
+  },
+  "ncpprotector": {
+    "type": "className",
+    "locator": "ncbprotector"
+  },
+  "ncbprotectoryes": {
+    "type": "className",
+    "locator": "homepage_ncb_yes"
+  },
+  "ncbprotectorno": {
+    "type": "className",
+    "locator": "homepage_ncb_no"
+  },
+  "ncbprotectoryeswithzoop": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div/div[1]/div[2]/div/div/div[3]/div[2]/div/button[1]"
+  },
+  "ncbprotectornowithzoop": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div/div[1]/div[2]/div/div/div[3]/div[2]/div/button[2]"
+  },
+  "ownershipchanged": {
+    "type": "classname",
+    "locator": "Ownership_yes"
+  },
+  "ownershipchangedwithzoop": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div/div[1]/div[2]/div/div/div[3]/div[2]/div/button[1]"
+  },
+  "consumerloginownership": {
+    "type": "classname",
+    "locator": "Ownership_radiobtn"
+  },
+  "ownershipnotchanged": {
+    "type": "classname",
+    "locator": "Ownership_no"
+  },
+  "ownershipnotchangedwithzoop": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div/div[1]/div[2]/div/div/div[3]/div[2]/div/button[2]"
+  },
+  "viewmoresubmit": {
+    "type": "classname",
+    "locator": "viewmore_submit"
+  },
+  "selfweight": {
+    "type": "classname",
+    "locator": "selfweight"
+  },
+  "selfaiheightfeet": {
+    "type": "classname",
+    "locator": "selfaiheightfeet"
+  },
+  "Heightinches": {
+    "type": "classname",
+    "locator": "Height-inches"
+  },
+  "spouseaifirstname": {
+    "type": "id",
+    "locator": "spouseaifirstname"
+  },
+  "spouselastName": {
+    "type": "id",
+    "locator": "spouselastName"
+  },
+  "spouseweight": {
+    "type": "id",
+    "locator": "spouseweight"
+  },
+  "policyType": {
+    "type": "classname",
+    "locator": "policytype"
+  },
+  "policyType_comprehensive": {
+    "type": "classname",
+    "locator": "comprehensive"
+  },
+  "policyType_liability": {
+    "type": "classname",
+    "locator": "liability"
+  },
+  "additionalcover": {
+    "type": "classname",
+    "locator": "additional_cover"
+  },
+  "policyouterlist": {
+    "type": "classname",
+    "locator": "policyouterblock"
+  },
+  "policyinnerlist": {
+    "type": "classname",
+    "locator": "policyinnerblock"
+  },
+  "clickbuy": {
+    "type": "classname",
+    "locator": "clickbuy"
+  },
+  "buybtn": {
+    "type": "classname",
+    "locator": "buybutton"
+  },
+  "parrentbuyblock": {
+    "type": "classname",
+    "locator": "parrentbuyblock"
+  },
+  "PlanDetails": {
+    "type": "classname",
+    "locator": "premiumbreakup"
+  },
+  "AfterPlanDetails": {
+    "type": "classname",
+    "locator": "policyDetails"
+  },
+  "quotespage": {
+    "type": "classname",
+    "locator": "policyadditionaldetails"
+  },
+  "waitingperiod": {
+    "type": "xpath",
+    "locator": "//*[@id='__next']/div[1]/section/div/div[1]/div[4]/div/div/div[3]/div[2]/section/div[1]/div/div/div/div/button[2]/span[1]"
+  },
+  "waitingperiodtext": {
+    "type": "xpath",
+    "locator": "//*[@id='__next']/div[1]/section/div/div[1]/div[4]/div/div/div[3]/div[2]/section/div[2]"
+  },
+  "notcovered": {
+    "type": "xpath",
+    "locator": "//*[@id='__next']/div[1]/section/div/div[1]/div[4]/div/div/div[3]/div[2]/section/div[1]/div/div/div/div/button[3]/span[1]"
+  },
+  "notcoveredtext": {
+    "type": "xpath",
+    "locator": "//*[@id='__next']/div[1]/section/div/div[1]/div[4]/div/div/div[3]/div[2]/section/div[2]/div"
+  },
+  "AdditionalCovers": {
+    "type": "xpath",
+    "locator": "//*[@id='__next']/div[1]/section/div/div[1]/div[4]/div/div[1]/div[3]/div[2]/section/div[1]/div/div/div/div/button[4]/span[1]"
+  },
+  "AdditionalCoversText": {
+    "type": "xpath",
+    "locator": "//*[@id='__next']/div[1]/section/div/div[1]/div[4]/div/div[1]/div[3]/div[2]/section/div[2]"
+  },
+  "checkoutpage": {
+    "type": "classname",
+    "locator": "allmenu"
+  },
+  "contactfirstname": {
+    "type": "id",
+    "locator": "aifirstname"
+  },
+  "healthcontactfirstname": {
+    "type": "className",
+    "locator": "firstName"
+  },
+  "contactlastname": {
+    "type": "id",
+    "locator": "ailastname"
+  },
+  "healthcontactlastname": {
+    "type": "id",
+    "locator": "lastName"
+  },
+  "healthcontactAnnualIncome": {
+    "type": "xpath",
+    "locator": "//*[@id='annualInc']"
+  },
+  "proposernomineefirstname": {
+    "type": "className",
+    "locator": "ainomineefirstname"
+  },
+  "proposernomineelastname": {
+    "type": "className",
+    "locator": "ainomineelastname"
+  },
+  "summaryfirstName": {
+    "type": "classname",
+    "locator": "summaryfirstName"
+  },
+  "contactemail": {
+    "type": "id",
+    "locator": "aiemail"
+  },
+  "contactmobile": {
+    "type": "id",
+    "locator": "mobile"
+  },
+  "Motorcontactmobile": {
+    "type": "id",
+    "locator": "aimobilenumber"
+  },
+  "companyyesno":{
+    "type": "classname",
+    "locator": "companyyesno"
+  },
+  "selectcompany": {
+    "type": "classname",
+    "locator": "vehicleowned"
+  },
+  "companyyes": {
+    "type": "classname",
+    "locator": "company"
+  },
+  "companyno": {
+    "type": "classname",
+    "locator": "individual"
+  },
+  "shortName": {
+    "type": "id",
+    "locator": "shortName"
+  },
+  "selfAadhar": {
+    "type": "id",
+    "locator": "selfaadhar"
+  },
+  "contacttab": {
+    "type": "classname",
+    "locator": "Contact"
+  },
+  "personaltab": {
+    "type": "classname",
+    "locator": "Personal"
+  },
+  "communicationtab": {
+    "type": "classname",
+    "locator": "Communication"
+  },
+  "mismatchErrormsg": {
+    "type": "classname",
+    "locator": "mismatchErrormsg"
+  },
+  "vehicletab": {
+    "type": "classname",
+    "locator": "Vehicle"
+  },
+  "inspectiontab": {
+    "type": "classname",
+    "locator": "Inspection"
+  },
+  "contactcompanyname": {
+    "type": "id",
+    "locator": "aicompanyname"
+  },
+  "confirmcontact": {
+    "type": "classname",
+    "locator": "viewmore_submit"
+  },
+  "personalmarriedyes": {
+    "type": "classname",
+    "locator": "selfmarriedYes"
+  },
+  "personalmarriedyesone": {
+    "type": "classname",
+    "locator": "selfmarriedYes"
+  },
+  "personalmarriedno": {
+    "type": "classname",
+    "locator": "selfmarriedNo"
+
+  },
+
+  "personalnomineefirstname": {
+    "type": "classname",
+    "locator": "nomineeFirstname"
+  },
+  "personalgendermale": {
+    "type": "classnNme",
+    "locator": "checkout_gender_male"
+  },
+  "personalgenderfemale": {
+    "type": "className",
+    "locator": "checkout_gender_female"
+  },
+  "stargendermale": {
+    "type": "className",
+    "locator": "undefinedMale"
+  },
+  "stargenderfemale": {
+    "type": "className",
+    "locator": "undefinedFemale"
+  },
+  "aadharnumber": {
+    "type": "id",
+    "locator": "checkout_aadharno"
+  },
+  "paymentlinktext": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[1]/section[2]/div[1]/span"
+  },
+  "persoanloccuption": {
+    "type": "id",
+    "locator": "selfaioccupation"
+  },
+  "selfaiproposeroccupation": {
+    "type": "className",
+    "locator": "selfaiproposeroccupation"
+  },
+  "summaryOccupation": {
+    "type": "className",
+    "locator": "summaryOccupation"
+  },
+  "selectoccuption": {
+    "type": "xpath",
+    "locator": "//*[@aria-labelledby=\"Proposer Occupation\"]"
+  },
+  "insuredmemberoccuption": {
+    "type": "xpath",
+    "locator": "//*[@aria-labelledby=\"Occupation \"]"
+  },
+  "selectspouseoccuption": {
+    "type": "xpath",
+    "locator": "//*[@id=\"menu-\"]/div[3]"
+  },
+  "summaryAadhar":{
+    "type": "className",
+    "locator": "summaryAadhar"
+  },
+  "persoanldob": {
+    "type": "className",
+    "locator": "dateofbirth"
+  },
+  "personaldobyear": {
+    "type": "className",
+    "locator": "checkout_dob_year"
+  },
+  "personaldobmonth": {
+    "type": "className",
+    "locator": "checkout_dob_month"
+  },
+  "personaldobday": {
+    "type": "className",
+    "locator": "checkout_dob_day"
+  },
+  "persoanlpanno": {
+    "type": "xpath",
+    "locator": "//*[@id=\"slefpancard\"]"
+  },
+  "nomineename": {
+    "type": "id",
+    "locator": "checkout_nomineefirst_name"
+  },
+  "nomineeage": {
+    "type": "id",
+    "locator": "checkout_nomineefirst_age"
+  },
+  "nomineelastname": {
+    "type": "id",
+    "locator": "checkout_nomineelast_name"
+  },
+  "nomineerelationship": {
+    "type": "className",
+    "locator": "selectrelationship"
+  },
+  "ainomineerelationship": {
+    "type": "className",
+    "locator": "nominee_relationship"
+  },
+
+  "healthnomineerelationship": {
+    "type": "className",
+    "locator": "nominee_relationship"
+  },
+  "starnomineerelationship": {
+    "type": "xpath",
+    "locator": "//*[@aria-labelledby=\"Nominee Relationship\"]"
+  },
+  "addonroomrent": {
+    "type": "className",
+    "locator": "addonroomrent"
+  },
+  "maxthreethousand": {
+    "type": "className",
+    "locator": "max₹3,000"
+  },
+  "nolimits": {
+    "type": "className",
+    "locator": "NoLimits"
+  },
+  "uptotwopercentage": {
+    "type": "className",
+    "locator": "Upto2%ofSIorRs.5,000"
+  },
+  "SinglePrivateRoom": {
+    "type": "className",
+    "locator": "SinglePrivateRoom"
+  },
+  "TwinSharingRoom": {
+    "type": "className",
+    "locator": "TwinSharingRoom"
+  },
+  "NotCovered": {
+    "type": "className",
+    "locator": "NotCovered"
+  },
+  "maxfivethousand": {
+    "type": "className",
+    "locator": "5,000/-perday"
+  },
+  "personalnomineeRelation": {
+    "type": "classname",
+    "locator": "relationship"
+  },
+  "summaryPanCard":{
+    "type": "classname",
+    "locator": "summaryPanCard"
+  },
+  "chooserelationship": {
+    "type": "classname",
+    "locator": "chooserelationship"
+  },
+  "communicationpincode": {
+    "type": "classname",
+    "locator": "communication_pincode"
+  },
+  "areapincode": {
+    "type": "classname",
+    "locator": "area_pincode"
+  },
+  "areapincodeinput": {
+    "type": "classname",
+    "locator": "MuiInputBase-input"
+  },
+  "communicationaddress1": {
+    "type": "classname",
+    "locator": "checkoutaddress_line1"
+  },
+  "communicationaddress2": {
+    "type": "classname",
+    "locator": "checkoutaddress_line2"
+  },
+  "aicityid": {
+    "type": "id ",
+    "locator": "aicityid"
+  },
+  "aiareaid": {
+    "type": "id ",
+    "locator": "aiareaid"
+  },
+  "aiidprooffield": {
+    "type": "xpath",
+    "locator": "//*[@id=\"aiidproof\"]"
+  },
+  "aiidproofnumber": {
+    "type": "id",
+    "locator": "aiidproofnumber-label"
+  },
+  "aiaddressprooffield": {
+    "type": "xpath",
+    "locator": "//*[@id=\"selfaiaddressproof\"]"
+  },
+  "aiaddressproofnumber": {
+    "type": "xpath",
+    "locator": "//*[@id=\"selfaiaddressproofnumber\"]"
+  },
+  "self_ai_income_source": {
+    "type": "classname",
+    "locator": "selfaiincomesource"
+  },
+  "self_ai_income_source_list": {
+    "type": "xpath",
+    "locator": "//*[@aria-labelledby=\"Source of Funds\"]"
+  },
+  "pepqs": {
+    "type": "classname",
+    "locator": "undefinedNo"
+  },
+  "familymember_firstname": {
+    "type": "classname",
+    "locator": "familymemberfirstName"
+  },
+  "familymemberlastname": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div[1]/div[1]/section[1]/form/div/div[4]/div[2]/div/div/div/input"
+  },
+  "selfaifamilyrelationship": {
+    "type": "classname",
+    "locator": "selfaifamilyrelationship"
+  },
+  "existingpolicy": {
+    "type": "classname",
+    "locator": "existingpolicy"
+  },
+  "existingpolicyinsurer": {
+    "type": "classname",
+    "locator": "existing_policy_insurer"
+  },
+  "existingpolicyno": {
+    "type": "classname",
+    "locator": "acprevpolicynumber"
+  },
+  "enginenumber": {
+    "type": "id",
+    "locator": "acenginenumber"
+  },
+  "chassisnumber": {
+    "type": "id",
+    "locator": "acchassisnumber"
+  },
+  "inspection": {
+    "type": "classname",
+    "locator": "inspectionarea"
+  },
+  "inspectionareapincode": {
+    "type": "classname",
+    "locator": "inspectionarea_pincode"
+  },
+  "inspectionplacearea": {
+    "type": "classname",
+    "locator": "inspectionplacearea"
+  },
+  "inspectionplace": {
+    "type": "classname",
+    "locator": "inspectionPlace"
+  },
+  "inspectionplacedetails": {
+    "type": "classname",
+    "locator": "inspectionplaceDetails"
+  },
+  "inspectionaddress": {
+    "type": "classname",
+    "locator": "inspectionaddress"
+  },
+  "inspectionblock": {
+    "type": "classname",
+    "locator": "inspectionblock"
+  },
+  "inspectionstatus": {
+    "type": "classname",
+    "locator": "inspectionstatus"
+  },
+  "inspectionid": {
+    "type": "classname",
+    "locator": "inspectionid"
+  },
+  "proceedtoPersonal": {
+    "type": "id",
+    "locator": "proceedtoPersonal"
+  },
+  "login_otp": {
+    "type": "classname",
+    "locator": "otplogin"
+  },
+  "otp_input": {
+    "type": "classname",
+    "locator": "otpinput"
+  },
+  "send_otp": {
+    "type": "xpath",
+    "locator": "//*[text()='SEND OTP']"
+  },
+  "type_otp": {
+    "type": "classname",
+    "locator": "typeotp"
+  },
+  "enter_otp": {
+    "type": "classname",
+    "locator": "enterotp"
+  },
+  "verify_otp": {
+    "type": "classname",
+    "locator": "verifyotp"
+  },
+  "submit_otp": {
+    "type": "classname",
+    "locator": "submitotp"
+  },
+  "oneyearod": {
+    "type": "id",
+    "locator": "1YearOD"
+  },
+  "twoyearod": {
+    "type": "id",
+    "locator": "2YearOD"
+  },
+  "threeyearod": {
+    "type": "id",
+    "locator": "3YearOD"
+  },
+  "fiveyearod": {
+    "type": "id",
+    "locator": "5YearOD"
+  },
+  "accept": {
+    "type": "classname",
+    "locator": "accept"
+  },
+  "readytoPay": {
+    "type": "classname",
+    "locator": "viewmore_submit"
+  },
+  "usermenu": {
+    "type": "classname",
+    "locator": "users"
+  },
+  "listofproducts": {
+    "type": "classname",
+    "locator": "listofproducts"
+  },
+  "products": {
+    "type": "classname",
+    "locator": "products"
+  },
+
+  "listofusers": {
+    "type": "classname",
+    "locator": "listofusers"
+  },
+  "pospusername": {
+    "type": "id",
+    "locator": "pospusername"
+  },
+  "posppassword": {
+    "type": "id",
+    "locator": "posppassword"
+  },
+  "pospSignin": {
+    "type": "classname",
+    "locator": "posp_signin"
+  },
+  "maintabs": {
+    "type": "classname",
+    "locator": "alltabs"
+  },
+  "subtabs": {
+    "type": "classname",
+    "locator": "policyrow"
+  },
+  "headerrow": {
+    "type": "classname",
+    "locator": "headerrow"
+  },
+  "selectentity": {
+    "type": "classname",
+    "locator": "ctnLoY"
+  },
+  "selectmyaccount": {
+    "type": "classname",
+    "locator": "myaccount"
+  },
+  "myaccounttab": {
+    "type": "classname",
+    "locator": "policyrow"
+  },
+  "registerAsPosp": {
+    "type": "classname",
+    "locator": "registerAsPosp"
+  },
+  "logout": {
+    "type": "id",
+    "locator": "logoutBtn"
+  },
+  "pospLoginError": {
+    "type": "id",
+    "locator": "pospLoginError"
+  },
+  "pospSR": {
+    "type": "classname",
+    "locator": "serviceRequests"
+  },
+  "servicerequest": {
+    "type": "classname",
+    "locator": "servicerequest"
+  },
+  "noDataSR": {
+    "type": "classname",
+    "locator": "nodataSR"
+  },
+  "srCategory": {
+    "type": "classname",
+    "locator": "srCategory"
+  },
+  "srSubCategory": {
+    "type": "classname",
+    "locator": "srSubCategory"
+  },
+  "srComment": {
+    "type": "className",
+    "locator": "MuiInput-underline"
+  },
+  "srSubmit": {
+    "type": "className",
+    "locator": "srSubmit"
+  },
+  "newsrBtn": {
+    "type": "className",
+    "locator": "MuiButtonBase-root"
+  },
+  "srCategoryBtn": {
+    "type": "className",
+    "locator": "category"
+  },
+  "srSubCategoryBtn": {
+    "type": "className",
+    "locator": "subcategory"
+  },
+  "pospProfile": {
+    "type": "classname",
+    "locator": "profile"
+  },
+  "changePasswordBtn": {
+    "type": "classname",
+    "locator": "changePasswordBtn"
+  },
+  "currentPassword": {
+    "type": "classname",
+    "locator": "currentPassword"
+  },
+  "newPassword": {
+    "type": "classname",
+    "locator": "newPassword"
+  },
+  "confirmPassword": {
+    "type": "classname",
+    "locator": "confirmPassword"
+  },
+  "submitChangePassword": {
+    "type": "classname",
+    "locator": "submitChangePassword"
+  },
+  "fillPospFirstName": {
+    "type": "classname",
+    "locator": "firstName"
+  },
+  "fillPospMobile": {
+    "type": "classname",
+    "locator": "mobileNumber"
+  },
+  "fillPospLastName": {
+    "type": "classname",
+    "locator": "lastName"
+  },
+  "GstNoCompany": {
+    "type": "classname",
+    "locator": "gstnumber"
+  },
+  "summaryGST":{
+    "type": "classname",
+    "locator": "summaryGST"
+  },
+  "choosePospGender": {
+    "type": "classname",
+    "locator": "gender"
+  },
+  "propserMale": {
+    "type": "classname",
+    "locator": "undefinedMale"
+  },
+  "propserFemale": {
+    "type": "classname",
+    "locator": "undefinedFemale"
+  },
+  "oneYear": {
+    "type": "classname",
+    "locator": "yearselect_1"
+  },
+  "isEnabledpayment": {
+    "type": "classname",
+    "locator": "MuiSvgIcon-colorPrimary"
+  },
+  "twoYear": {
+    "type": "classname",
+    "locator": "yearselect_2"
+  },
+  "threeYear": {
+    "type": "classname",
+    "locator": "yearselect_3"
+  },
+  "yearblock1": {
+    "type": "classname",
+    "locator": "yearblock_1"
+  },
+  "yearblock2": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div/div[2]/div[2]/div[2]/div[2]"
+  },
+  "yearblock3": {
+    "type": "classname",
+    "locator": "yearblock_3"
+  },
+  "fillPospAlternateMobile": {
+    "type": "classname",
+    "locator": "alternateContactNumber"
+  },
+  "fillPospEmail": {
+    "type": "classname",
+    "locator": "email"
+  },
+  "fillPospAccNumber": {
+    "type": "classname",
+    "locator": "bankAccountNumber"
+  },
+  "healthpaymentblock": {
+    "type": "classname",
+    "locator": "healthpaymentblock"
+  },
+  "fillPospIfscCode": {
+    "type": "classname",
+    "locator": "ifscCode"
+  },
+  "fillPospPinCode": {
+    "type": "classname",
+    "locator": "pinCode"
+  },
+  "pospPinCode": {
+    "type": "classname",
+    "locator": "pospDetails"
+  },
+  "fillPospAddress1": {
+    "type": "classname",
+    "locator": "addressLine1"
+  },
+  "fillPospAddress2": {
+    "type": "classname",
+    "locator": "addressLine2"
+  },
+  "fillPospPanNumber": {
+    "type": "classname",
+    "locator": "panNumber"
+  },
+  "fillPospAadharNumber": {
+    "type": "classname",
+    "locator": "aadharNumber"
+  },
+  "fillPospGstNumber": {
+    "type": "classname",
+    "locator": "gstNumber"
+  },
+  "pospRegistrationProceed": {
+    "type": "classname",
+    "locator": "proceed"
+  },
+  "fillFatherName": {
+    "type": "classname",
+    "locator": "parentName"
+  },
+  "fillSpouseName": {
+    "type": "classname",
+    "locator": "spouseName"
+  },
+  "checkTermsCondition": {
+    "type": "id",
+    "locator": "termCondition"
+  },
+  "selectQualification": {
+    "type": "classname",
+    "locator": "qualification"
+  },
+  "selectMajor": {
+    "type": "classname",
+    "locator": "major"
+  },
+  "fillDob": {
+    "type": "classname",
+    "locator": "dob"
+  },
+  "pospRegister": {
+    "type": "classname",
+    "locator": "register"
+  },
+  "pospRegisteredSuccessfully": {
+    "type": "classname",
+    "locator": "registerMessage"
+  },
+  "pospRegistrationClose": {
+    "type": "classname",
+    "locator": "close"
+  },
+  "gridview": {
+    "type": "classname",
+    "locator": "gridview"
+  },
+  "listview": {
+    "type": "classname",
+    "locator": "listview"
+  },
+  "changePasswordError": {
+    "type": "classname",
+    "locator": "ChangePasswordError"
+  },
+  "addressEdit": {
+    "type": "classname",
+    "locator": "addressEdit"
+  },
+  "pincodeEdit": {
+    "type": "classname",
+    "locator": "pincodeEdit"
+  },
+  "areaInputEdit": {
+    "type": "classname",
+    "locator": "areaInputEdit"
+  },
+  "areaDropDownEdit": {
+    "type": "classname",
+    "locator": "areaDropDownEdit"
+  },
+  "ad1Edit": {
+    "type": "classname",
+    "locator": "ad1Edit"
+  },
+  "ad2Edit": {
+    "type": "classname",
+    "locator": "ad2Edit"
+  },
+  "changeAddress": {
+    "type": "classname",
+    "locator": "submitChangeAddress"
+  },
+  "addressUpdateError": {
+    "type": "classname",
+    "locator": "addressUpdateError"
+  },
+  "addcompare": {
+    "type": "classname",
+    "locator": "addcompareblock"
+  },
+  "comparebutton": {
+    "type": "classname",
+    "locator": "comparenow"
+  },
+  "comparepage": {
+    "type": "classname",
+    "locator": "comparepage"
+  },
+  "comparetab": {
+    "type": "classname",
+    "locator": "comparetab"
+  },
+  "compareindividual": {
+    "type": "className",
+    "locator": "individualvendor"
+  },
+  "comparebuy": {
+    "type": "classname",
+    "locator": "comparebuy"
+  },
+  "quotesEdit": {
+    "type": "className",
+    "locator": "quotesEdit"
+  },
+  "editRegno": {
+    "type": "className",
+    "locator": "editRegno"
+  },
+  "policynotclaimed": {
+    "type": "className",
+    "locator": "isClaimed_no"
+  },
+  "policyclaimed": {
+    "type": "xpath",
+    "locator": "//*[text()='Yes']"
+  },
+  "editnotclaimed": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[2]/div/div[4]/div/div/div/div[1]/div/label[2]/span"
+  },
+  "firstnameInvalid": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[1]/section[2]/div/div[1]/div[1]/div/textarea"
+  },
+  "Editclaimed": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[2]/div/div[2]/div/div/div/div/div/label[1]/span"
+  },
+  "editRegdate": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[2]/div/div[5]/div/div/div/div/div/div/div/div[3]/button"
+  },
+  "editRegMonth": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[2]/div/div[5]/div/div/div/div/div/div/div/div[2]/button"
+  },
+  "reSubmit": {
+    "type": "id",
+    "locator": "reSubmit"
+  },
+  "Editnotclaimed": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[2]/div/div[2]/div/div/div/div/div/label[1]/span"
+  },
+  "editClaim": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[2]/div/div[4]/div/div/div/div[1]/div/label[1]/span"
+  },
+  "rowValue": {
+    "type": "classname",
+    "locator": "rowValue"
+  },
+  "continuePurcahse": {
+    "type": "classname",
+    "locator": "continuePurcahse"
+  },
+  "paymentlink": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[1]/section[2]/div/div[1]"
+  },
+  "filterButton": {
+    "type": "classname",
+    "locator": "filterBtn"
+  },
+  "filterByCustomerName": {
+    "type": "classname",
+    "locator": "customer_name"
+  },
+  "filterByPolicyNumber": {
+    "type": "classname",
+    "locator": "policy_number"
+  },
+  "filterByPremium": {
+    "type": "classname",
+    "locator": "premium"
+  },
+  "filterByMobileNumber": {
+    "type": "classname",
+    "locator": "mobile_number"
+  },
+  "filterByVehicleNumber": {
+    "type": "classname",
+    "locator": "vehicle_number"
+  },
+  "filterByEngineNumber": {
+    "type": "classname",
+    "locator": "engine_number"
+  },
+  "filterByChassisNumber": {
+    "type": "classname",
+    "locator": "chassis_number"
+  },
+  "filterByStatusOfPolicy": {
+    "type": "classname",
+    "locator": "status"
+  },
+  "policyHolderValue": {
+    "type": "classname",
+    "locator": "col_5"
+  },
+  "policyNumberValue": {
+    "type": "classname",
+    "locator": "col_2"
+  },
+  "purchaseStatus": {
+    "type": "classname",
+    "locator": "purchaseStatus"
+  },
+  "retuntohome": {
+    "type": "classname",
+    "locator": "retuntohome"
+  },
+  "returntoquotes": {
+    "type": "classname",
+    "locator": "returntoquotes"
+  },
+  "policyCheck": {
+    "type": "classname",
+    "locator": "policyCheck"
+  },
+  "policyEmailQuotes": {
+    "type": "classname",
+    "locator": "policyEmailQuotes"
+  },
+  "selectAllPolicy": {
+    "type": "classname",
+    "locator": "selectAllPolicy"
+  },
+  "policyPagination": {
+    "type": "classname",
+    "locator": "policyPagination"
+  },
+  "mobileValue": {
+    "type": "classname",
+    "locator": "mobileValue"
+  },
+  "vehicleValue": {
+    "type": "classname",
+    "locator": "vehicleValue"
+  },
+  "firstNameValue": {
+    "type": "classname",
+    "locator": "firstNameValue"
+  },
+  "checksummaryfirstName":{
+    "type": "classname",
+    "locator": "firstname"
+  },
+  "emailEdit": {
+    "type": "classname",
+    "locator": "emailEdit"
+  },
+  "mobileNumberEdit": {
+    "type": "classname",
+    "locator": "mobile_numberEdit"
+  },
+  "vehicledetails":{
+    "type": "classname",
+    "locator": "vehicledetails"
+  },
+  "editquotes":{
+    "type": "classname",
+    "locator": "editquotes"
+  },
+  "claimCategory": {
+    "type": "classname",
+    "locator": "claimCategory"
+  },
+  "category": {
+    "type": "classname",
+    "locator": "category"
+  },
+  "category1": {
+    "type": "id",
+    "locator": "homepage"
+  },
+  "claimCategoryList": {
+    "type": "classname",
+    "locator": "claimCategoryList"
+  },
+  "claimPolicy": {
+    "type": "classname",
+    "locator": "claimPolicy"
+  },
+  "claimPolicyList": {
+    "type": "classname",
+    "locator": "claimPolicyList"
+  },
+  "submitClaim": {
+    "type": "classname",
+    "locator": "submitClaim"
+  },
+  "placeOfIncident": {
+    "type": "classname",
+    "locator": "placeOfIncident"
+  },
+  "dateOfIncident": {
+    "type": "classname",
+    "locator": "dateOfIncident"
+  },
+  "timeOfIncidentDD": {
+    "type": "classname",
+    "locator": "timeOfIncidentDD"
+  },
+  "incidentTime": {
+    "type": "classname",
+    "locator": "incidentTime"
+  },
+  "timeOfIncidentDL": {
+    "type": "classname",
+    "locator": "timeOfIncidentDL"
+  },
+  "garage": {
+    "type": "classname",
+    "locator": "garage"
+  },
+  "garagelocation": {
+    "type": "classname",
+    "locator": "garagelocation"
+  },
+  "estimationofRepair": {
+    "type": "classname",
+    "locator": "estimationofRepair"
+  },
+  "detailIncident": {
+    "type": "classname",
+    "locator": "detailIncident"
+  },
+  "estimation": {
+    "type": "classname",
+    "locator": "estimation"
+  },
+  "incidentDetails": {
+    "type": "classname",
+    "locator": "incidentDetails"
+  },
+  "claimFormSubmit": {
+    "type": "classname",
+    "locator": "claimFormSubmit"
+  },
+  "loadersection": {
+    "type": "classname",
+    "locator": "loadersection"
+  },
+  "beforeloader": {
+    "type": "classname",
+    "locator": "beforeloader"
+  },
+  "loaderclass": {
+    "type": "classname",
+    "locator": "loadingclass"
+  },
+  "rowValueIncompletePurchase": {
+    "type": "classname",
+    "locator": "rowValueIncompletePurchase"
+  },
+  "incompletePurchaseVehiclNumber": {
+    "type": "classname",
+    "locator": "incompletePurchaseVehiclNumber"
+  },
+  "consumerIncompletePurchase": {
+    "type": "classname",
+    "locator": "consumerIncompletePurchase"
+  },
+  "deleteConsumerIncompletePurchase": {
+    "type": "classname",
+    "locator": "deleteConsumerIncompletePurchase"
+  },
+  "deletePurchase": {
+    "type": "classname",
+    "locator": "deletePurchase"
+  },
+
+  "bulkUploadExcel": {
+    "type": "classname",
+    "locator": "excelData"
+  },
+  "toastBody": {
+    "type": "classname",
+    "locator": "toastBody"
+  },
+  "toastify": {
+    "type": "classname",
+    "locator": "Toastify"
+  },
+  "clickEdit": {
+    "type": "classname",
+    "locator": "viewIcon"
+  },
+  "editLeadFirstName": {
+    "type": "classname",
+    "locator": "firstName"
+  },
+  "editLeadLastName": {
+    "type": "classname",
+    "locator": "lastName"
+  },
+  "editLeadcompanyName": {
+    "type": "classname",
+    "locator": "companyName"
+  },
+  "editLeadEmail": {
+    "type": "classname",
+    "locator": "emailaddress"
+  },
+  "editLeadMobileNumber": {
+    "type": "classname",
+    "locator": "mobileNumber"
+  },
+  "editLeadAddress1": {
+    "type": "classname",
+    "locator": "address1"
+  },
+  "editLeadAddress2": {
+    "type": "classname",
+    "locator": "address2"
+  },
+  "editLeadCity": {
+    "type": "classname",
+    "locator": "city"
+  },
+  "editLeadPolicyNumber": {
+    "type": "classname",
+    "locator": "oldPolicyNumber"
+  },
+  "editLeadInsurer": {
+    "type": "classname",
+    "locator": "previousinsurer"
+  },
+  "editLeadCurrentNCB": {
+    "type": "classname",
+    "locator": "currentNcb"
+  },
+  "editLeadExpireDate": {
+    "type": "classname",
+    "locator": "expirydate"
+  },
+  "editLeadncbpercentage": {
+    "type": "classname",
+    "locator": "ncbpercentage"
+  },
+
+  "editLeadEngineNumber": {
+    "type": "classname",
+    "locator": "enginenumber"
+  },
+  "editLeadChassisNumber": {
+    "type": "classname",
+    "locator": "chassisnumber"
+  },
+  "editLeadVehicleCode": {
+    "type": "classname",
+    "locator": "leadvehiclecode"
+  },
+  "editLeadVehicleCodeDropDown": {
+    "type": "classname",
+    "locator": "vehicleCodeDropDown"
+  },
+  "editLeadVehicleType": {
+    "type": "classname",
+    "locator": "vehicletype"
+  },
+  "editLeadYearOfManu": {
+    "type": "classname",
+    "locator": "manufactureyear"
+  },
+  "editLeadRTOCode": {
+    "type": "classname",
+    "locator": "vehiclenumber"
+  },
+  "editLeadDataOfRegistration": {
+    "type": "classname",
+    "locator": "registrationdate"
+  },
+  "enableEdit": {
+    "type": "classname",
+    "locator": "submitadd"
+  },
+  "clickCancel": {
+    "type": "classname",
+    "locator": "cancel"
+  },
+  "clickUpdate": {
+    "type": "classname",
+    "locator": "update"
+  },
+  "emailErrorMsg": {
+    "type": "classname",
+    "locator": "emailErr"
+  },
+  "mobileErrorMsg": {
+    "type": "classname",
+    "locator": "mobileErr"
+  },
+  "fillLeadFirstName": {
+    "type": "classname",
+    "locator": "firstName"
+  },
+  "fillLeadLastName": {
+    "type": "classname",
+    "locator": "lastName"
+  },
+  "fillLeadCompanyName": {
+    "type": "classname",
+    "locator": "companyName"
+  },
+  "fillLeadEmail": {
+    "type": "classname",
+    "locator": "emailaddress"
+  },
+  "fillLeadMobileNumber": {
+    "type": "classname",
+    "locator": "mobileNumber"
+  },
+  "selectLeadpostalcode": {
+    "type": "classname",
+    "locator": "leadpostcode"
+  },
+  "categorycode": {
+    "type": "classname",
+    "locator": "selectcategorycode"
+  },
+  "fillLeadpostalcode": {
+    "type": "classname",
+    "locator": "postalcode"
+  },
+  "fillLeadAddress1": {
+    "type": "classname",
+    "locator": "address1"
+  },
+  "fillLeadAddress2": {
+    "type": "classname",
+    "locator": "address2"
+  },
+  "fillLeadcity": {
+    "type": "classname",
+    "locator": "city"
+  },
+  "fillLeadoldpolicynumber": {
+    "type": "classname",
+    "locator": "oldPolicyNumber"
+  },
+  "fillLeadInsurer": {
+    "type": "classname",
+    "locator": "previousinsurer"
+  },
+  "fillLeadCurrentNCB": {
+    "type": "classname",
+    "locator": "ncbpercentage"
+  },
+  "fillLeadExpireDate": {
+    "type": "classname",
+    "locator": "expirydate"
+  },
+  "leadOwnership": {
+    "type": "classname",
+    "locator": "leadOwnership"
+  },
+  "fillleadownershipchanged": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[1]/div[2]/div[2]/div/div/div/div/div[6]/div/div/div/div/div[1]/div[1]/label/span"
+  },
+  "fillleadownershipnotchanged": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/section/div/div[1]/div[2]/div[2]/div/div/div/div/div[6]/div/div/div/div/div[1]/div[2]/label/span"
+  },
+  "fillleadncbprotectorchanged": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/div[1]/div[1]/div[2]/section/section/div/div/div[2]/section/section/div/div[2]/div[2]/div[6]/div/span[2]/span[1]/input"
+  },
+  "fillleadncbprotectornotchanged": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div/div[1]/div[1]/div[2]/section/section/div/div/div[2]/section/section/div/div[2]/div[2]/div[6]/div/span[4]/span[1]/input"
+  },
+  "fillLeadEngineNumber": {
+    "type": "classname",
+    "locator": "enginenumber"
+  },
+  "fillLeadChassisNumber": {
+    "type": "classname",
+    "locator": "chassisnumber"
+  },
+  "buttonLeadNcb": {
+    "type": "classname",
+    "locator": "buttonCurrentNcb"
+  },
+  "fillLeadVehicleCode": {
+    "type": "classname",
+    "locator": "vehiclecode"
+  },
+  "fillLeadvehicleinput": {
+    "type": "classname",
+    "locator": "leadvehiclecode"
+  },
+  "fillLeadVehicleType": {
+    "type": "classname",
+    "locator": "vehicletype"
+  },
+  "fillLeadYearOfManu": {
+    "type": "classname",
+    "locator": "manufactureyear"
+  },
+  "fillLeadRTOCode": {
+    "type": "classname",
+    "locator": "vehiclenumber"
+  },
+  "fillLeadDataOfRegistration": {
+    "type": "classname",
+    "locator": "registrationdate"
+  },
+  "clickLeadDataAdd": {
+    "type": "classname",
+    "locator": "submitadd"
+  },
+  "clickLeadAdd": {
+    "type": "classname",
+    "locator": "addLead"
+  },
+  "viewQuotes": {
+    "type": "classname",
+    "locator": "viewQuotes"
+  },
+  "vehicleLookUpTab": {
+    "type": "classname",
+    "locator": "vehicleLookUp"
+  },
+  "policyfirstRow": {
+    "type": "classname",
+    "locator": "policyrow"
+  },
+
+  "vehiceInput": {
+    "type": "classname",
+    "locator": "vehiceInput"
+  },
+  "vehicleList": {
+    "type": "classname",
+    "locator": "vehicleList"
+  },
+  "clickPromoteLead": {
+    "type": "classname",
+    "locator": "enabledPromote"
+  },
+  "leadFirstNameList": {
+    "type": "classname",
+    "locator": "col_1"
+  },
+  "policynumber": {
+    "type": "classname",
+    "locator": "col_2"
+  },
+  "incompletePagination": {
+    "type": "classname",
+    "locator": "incompletePagination"
+  },
+  "incompletevehicleNumber": {
+    "type": "classname",
+    "locator": "col_0"
+  },
+  "editButtonInQuotes": {
+    "type": "classname",
+    "locator": "editButtonInQuotes"
+  },
+  "editbtn_vehiclenumber": {
+    "type": "classname",
+    "locator": "editbtn_vehiclenumber"
+  },
+  "vehicleNumberQuotes": {
+    "type": "classname",
+    "locator": "vehicleNumberQuotes"
+  },
+  "pastyear": {
+    "type": "classname",
+    "locator": "pastyear"
+  },
+  "ownership": {
+    "type": "classname",
+    "locator": "ownership"
+  },
+  "effectivedrivelicense": {
+    "type": "classname",
+    "locator": "edl"
+  },
+  "ispaowner": {
+    "type": "classname",
+    "locator": "ispaowner"
+  },
+  "editquotes_Submit": {
+    "type": "classname",
+    "locator": "editquotes_Submit"
+  },
+  "ncbbtn_quotes": {
+    "type": "classname",
+    "locator": "ncbbtn_quotes"
+  },
+  "firstNameErrorMsg": {
+    "type": "classname",
+    "locator": "firstNameErrorMsg"
+  },
+  "lastNameErrorMsg": {
+    "type": "classname",
+    "locator": "lastNameErrorMsg"
+  },
+  "companyNameErrorMsg": {
+    "type": "classname",
+    "locator": "companyNameErrorMsg"
+  },
+  "shortNameErrorMsg": {
+    "type": "classname",
+    "locator": "shortNameErrorMsg"
+  },
+  "companyPersonNameErrorMsg": {
+    "type": "classname",
+    "locator": "companyPersonNameErrorMsg"
+  },
+  "mailErrorMsg": {
+    "type": "classname",
+    "locator": "emailErrorMsg"
+  },
+  "mobileNumberErrorMsg": {
+    "type": "classname",
+    "locator": "mobileNumberErrorMsg"
+  },
+  "companyPersonFirstNameErrorMsg": {
+    "type": "classname",
+    "locator": "companyPersonFirstNameErrorMsg"
+  },
+  "companyPersonLastNameErrorMsg": {
+    "type": "classname",
+    "locator": "companyPersonLastNameErrorMsg"
+  },
+  "companyPersonEmailErrorMsg": {
+    "type": "classname",
+    "locator": "companyPersonEmailErrorMsg"
+  },
+  "companyPersonNumberErrorMsg": {
+    "type": "classname",
+    "locator": "companyPersonNumberErrorMsg"
+  },
+  "companyPersonAgeErrorMsg": {
+    "type": "classname",
+    "locator": "companyPersonAgeErrorMsg"
+  },
+  "companyPersonGenderErrorMsg": {
+    "type": "classname",
+    "locator": "companyPersonGenderErrorMsg"
+  },
+  "gstNoErrorMsg": {
+    "type": "classname",
+    "locator": "gstNoErrorMsg"
+  },
+  "aadharCardErrorMsg": {
+    "type": "classname",
+    "locator": "aadharCardErrorMsg"
+  },
+  "panCardErrorMsg": {
+    "type": "classname",
+    "locator": "panCardErrorMsg"
+  },
+  "occupationErrorMsg": {
+    "type": "classname",
+    "locator": "occupationErrorMsg"
+  },
+  "dobErrorMsg": {
+    "type": "classname",
+    "locator": "dobErrorMsg"
+  },
+  "nomineeFirstNameErrorMsg": {
+    "type": "classname",
+    "locator": "nomineeFirstNameErrorMsg"
+  },
+  "nomineeAgeErrorMsg": {
+    "type": "classname",
+    "locator": "nomineeAgeErrorMsg"
+  },
+  "propspernomineeAge": {
+    "type": "classname",
+    "locator": "nomineeAge"
+  },
+  "nomineeLastNameErrorMsg": {
+    "type": "classname",
+    "locator": "nomineeLastNameErrorMsg"
+  },
+  "nomineeRelationErrorMsg": {
+    "type": "classname",
+    "locator": "nomineeRelationErrorMsg"
+  },
+  "address1ErrorMsg": {
+    "type": "classname",
+    "locator": "address1ErrorMsg"
+  },
+  "address2ErrorMsg": {
+    "type": "classname",
+    "locator": "address2ErrorMsg"
+  },
+  "postalAreaErrorMsg": {
+    "type": "classname",
+    "locator": "postalAreaErrorMsg"
+  },
+  "communicationErrorMsg": {
+    "type": "classname",
+    "locator": "communicationErrorMsg"
+  },
+  "prevInsurerErrorMsg": {
+    "type": "classname",
+    "locator": "prevInsurerErrorMsg"
+  },
+  "prevPolicyErrorMsg": {
+    "type": "classname",
+    "locator": "prevPolicyErrorMsg"
+  },
+  "prevInsurerAddressErrorMsg": {
+    "type": "classname",
+    "locator": "prevInsurerAddressErrorMsg"
+  },
+  "engineNumberErrorMsg": {
+    "type": "classname",
+    "locator": "engineNumberErrorMsg"
+  },
+  "chassisNumErrorMsg": {
+    "type": "classname",
+    "locator": "chassisNumErrorMsg"
+  },
+  "allMandoryErrorMsg": {
+    "type": "classname",
+    "locator": "allMandoryErrorMsg"
+  },
+  "manufactureyear": {
+    "type": "classname",
+    "locator": "vehiclemanufactureryears"
+  },
+  "manufactureryear": {
+    "type": "classname",
+    "locator": "manufactureryear"
+  },
+  "manufactureNext":{
+    "type": "xpath",
+    "locator": "/html[1]/body[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]"
+  },
+  "registrationNext":{
+    "type": "xpath",
+    "locator": "/html[1]/body[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]"
+  },
+  "manufacturemonth": {
+    "type": "classname",
+    "locator": "vehiclemanufacturermonths"
+  },
+  "manufactureday": {
+    "type": "classname",
+    "locator": "vehiclemanufacturerdays"
+  },
+  "manufactureselecteyear": {
+    "type": "classname",
+    "locator": "vehiclemanufacturerselectyear"
+  },
+  "manufactureselectmonth": {
+    "type": "classname",
+    "locator": "vehiclemanufacturerselectmonth"
+  },
+  "summaryMaritalstatus": {
+    "type": "classname",
+    "locator": "summaryMaritalstatus"
+  },
+  "summaryGender": {
+    "type": "classname",
+    "locator": "summaryGender"
+  },
+  "summaryAddLine1": {
+    "type": "classname",
+    "locator": "summaryAddLine1"
+  },
+  "summaryAddLine2": {
+    "type": "classname",
+    "locator": "summaryAddLine2"
+  },
+  "manufactureselectday": {
+    "type": "classname",
+    "locator": "vehiclemanufacturerselectday"
+  },
+  "vehicleregselectyear":{
+    "type": "classname",
+    "locator": "vehicleregselectyear"
+  } ,
+  "summaryRegDate": {
+    "type": "classname",
+    "locator": "summaryRegistrationDate"
+  },
+  "registrationyear": {
+    "type": "classname",
+    "locator": "vehicleregyears"
+  },
+  "registrationMonthquotes": {
+    "type": "classname",
+    "locator": "registrationmonth"
+  },
+  "vehilenumberEnquiry": {
+    "type": "xpath",
+    "locator": "/html[1]/body[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[3]/h1[1]"
+  },
+  "registrationDatequotes": {
+    "type": "classname",
+    "locator": "registrationdate"
+  },
+  "registrationyearquotes": {
+    "type": "classname",
+    "locator": "registrationyear"
+  },
+  "registrationmonth": {
+    "type": "classname",
+    "locator": "vehicleregmonths"
+  },
+  "registrationday": {
+    "type": "classname",
+    "locator": "vehicleregdays"
+  },
+  "summaryRegistrationDate": {
+    "type": "classname",
+    "locator": "vehicleregselectyear"
+  },
+
+  "vehicleregselectday": {
+    "type": "classname",
+    "locator": "vehicleregselectday"
+  },
+  "registrationselectmonth": {
+    "type": "classname",
+    "locator": "vehicleregselectmonth"
+  },
+  "registrationselectday": {
+    "type": "classname",
+    "locator": "vehicleregselectday"
+  },
+  "ncbpercent": {
+    "type": "classname",
+    "locator": "ncbDropdown"
+  },
+  "selectedncb": {
+    "type": "classname",
+    "locator": "selectedNcb"
+  },
+  "selectexpirydate": {
+    "type": "classname",
+    "locator": "undefinedselectday"
+  },
+  "SummaryExistingPolicyExpdate" : {
+    "type":"classname",
+    "locator": "SummaryExistingPolicyExpdate"
+  },
+  "expirydate": {
+    "type": "classname",
+    "locator": "undefineddays"
+  }
+,
+  "selectexpirymonth": {
+    "type": "classname",
+    "locator": "undefinedselectmonth"
+  },
+  "expirymonth": {
+    "type": "classname",
+    "locator": "undefinedmonths"
+  },
+  "previousPolicyyearquotes": {
+    "type": "classname",
+    "locator": "previousexpiryyear"
+  },
+  "previousPolicyMonthquotes": {
+    "type": "classname",
+    "locator": "previousexpirymonth"
+  },
+  "previousPolicyDatequotes": {
+    "type": "classname",
+    "locator": "previousexpirydate"
+  },
+  "selectexpiryYear": {
+    "type": "classname",
+    "locator": "undefinedselectyear"
+  },
+  "expiryyear": {
+    "type": "classname",
+    "locator": "undefinedyears"
+  },
+  "selectncbpercentage": {
+    "type": "classname",
+    "locator": "fzozeQ"
+  },
+  "ncbpercentage": {
+    "type": "classname",
+    "locator": "IfjLb"
+  },
+  "companyPersonName": {
+    "type": "id",
+    "locator": "aicompanypersonname"
+  },
+  "previousinsurelist": {
+    "type": "classname",
+    "locator": "insurerlist"
+  },
+  "loanproviderlist": {
+    "type": "classname",
+    "locator": "loanproviderlist"
+  },
+  "existingpolicyaddress":{
+    "type":"id",
+    "locator":"companyaddress"
+  },
+  "loginmyaccount": {
+    "type": "classname",
+    "locator": "loginmyaccount"
+  }
+,
+  "myaccountlogo": {
+    "type": "classname",
+    "locator": "myaccountlogo"
+  },
+  "iffcopayment": {
+    "type": "xpath",
+    "locator": "//input[@value='citiPaymentGateway']"
+  },
+  "iffopaymentconfirm": {
+    "type": "id",
+    "locator": "frmBtn"
+  },
+  "iffopaymentsubmit": {
+    "type": "id",
+    "locator": "submit_button"
+  },
+  "errorpage": {
+    "type": "id",
+    "locator": "//div[@class='error-block']/h1[@class='error-reaction']"
+  },
+  "showmore": {
+    "type": "classname",
+    "locator": "showmore"
+  },
+  "addondropdown": {
+    "type": "classname",
+    "locator": "MuiSelect-root"
+  },
+  "personalinfo": {
+    "type": "classname",
+    "locator": "personalinfo"
+  },
+  "personalinfofirstname": {
+    "type": "classname",
+    "locator": "firstname"
+  },
+  "personalinfooccupation": {
+    "type": "classname",
+    "locator": "occupation"
+  },
+  "checksummaryOccupation":{
+    "type": "classname",
+    "locator": "occupation"
+  },
+  "personalinfomarried":{
+    "type": "classname",
+    "locator": "married"
+  },
+  "personalinfoaadhar": {
+    "type": "classname",
+    "locator": "aadhar"
+  },
+  "personalinfogender": {
+    "type": "classname",
+    "locator": "gender"
+  },
+  "personalinfodob": {
+    "type": "classname",
+    "locator": "dob"
+  },
+  "personalinfopancard": {
+    "type": "classname",
+    "locator": "pancard"
+  },
+  "payableamountblock": {
+    "type": "classname",
+    "locator": "payableamountblock"
+  },
+  "payableAmount": {
+    "type": "classname",
+    "locator": "payableAmount"
+  },
+  "payableAmountlabel": {
+    "type": "classname",
+    "locator": "payableAmountlabel"
+  },
+  "yearamount_1": {
+    "type": "classname",
+    "locator": "yearamount_1"
+  },
+  "yearamount_2": {
+    "type": "classname",
+    "locator": "yearamount_2"
+  },
+  "yearamount_3": {
+    "type": "classname",
+    "locator": "yearamount_3"
+  },
+  "healthsummarypay": {
+    "type": "classname",
+    "locator": "payableAmount"
+  },
+  "summaryhealthPan": {
+    "type": "classname",
+    "locator": "pan"
+  },
+  "communicationinfo": {
+    "type": "classname",
+    "locator": "communicationinfo"
+  },
+  "communicationinfoaddress": {
+    "type": "classname",
+    "locator": "address"
+  },
+  "contactinfo": {
+    "type": "classname",
+    "locator": "contactinfo"
+  },
+  "contactinfomobilenumber": {
+    "type": "classname",
+    "locator": "mobilenumber"
+  },
+  "contactinfoemail": {
+    "type": "classname",
+    "locator": "email"
+  },
+  "collapstab": {
+    "type": "class",
+    "locator": "collapstab"
+  },
+  "collapstabself": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div[1]/div[1]/section[1]/form/div[1]/div/div"
+  },
+  "collapstabson1": {
+    "type": "xpath",
+    "locator": "//*[contains(text(),'SON 1')]"
+  },
+  "collapstabson2": {
+    "type": "xpath",
+    "locator": "//*[contains(text(),'SON 2')]"
+  },
+  "collapstabson3": {
+    "type": "xpath",
+    "locator": "//*[contains(text(),'SON 3')]"
+  },
+  "collapstabson4": {
+    "type": "xpath",
+    "locator": "//*[contains(text(),'SON 4')]"
+  },
+  "collapstabdoughter1": {
+    "type": "xpath",
+    "locator": "//*[contains(text(),'DAUGHTER 1')]"
+  },
+  "collapstabdoughter2": {
+    "type": "xpath",
+    "locator": "//*[contains(text(),'DAUGHTER 2')]"
+  },
+  "collapstabdoughter3": {
+    "type": "xpath",
+    "locator": "//*[contains(text(),'DAUGHTER 3')]"
+  },
+  "collapstabdoughter4": {
+    "type": "xpath",
+    "locator": "//*[contains(text(),'DAUGHTER 4')]"
+
+  },
+  "collapstabspouse": {
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div[1]/div[1]/section[1]/form/div[2]/div/div"
+  },
+  "collapstabmother": {
+    "type": "xpath",
+    "locator": "//*[@id='__next']/div[1]/section/div[1]/div[1]/section[1]/form/div[1]/div/div[1]"
+  },
+  "collapstabfather": {
+    "type": "xpath",
+    "locator": "//*[@id='__next']/div[1]/section/div[1]/div[1]/section[1]/form/div[2]/div/div"
+  },
+  "carinfo": {
+    "type": "classname",
+    "locator": "carinfo"
+  },
+  "carinfocarname": {
+    "type": "classname",
+    "locator": "carname"
+  },
+  "carinfofueltype": {
+    "type": "classname",
+    "locator": "fueltype"
+  },
+  "carinfomodel": {
+    "type": "classname",
+    "locator": "model"
+  },
+  "carinforegistrationdate": {
+    "type": "classname",
+    "locator": "registrationdate"
+  },
+  "carinfoenginenumber": {
+    "type": "classname",
+    "locator": "enginenumber"
+  },
+  "checkoutenginenumber": {
+    "type": "classname",
+    "locator": "checkoutenginenumber"
+  },
+  "checkoutchassisnumber": {
+    "type": "classname",
+    "locator": "checkoutchassisnumber"
+  },
+  "carinfochassisnumber": {
+    "type": "classname",
+    "locator": "chassisnumber"
+  },
+  "carinforegistrationnumber": {
+    "type": "classname",
+    "locator": "registrationnumber"
+  },
+  "son1aifirstname": {
+    "type": "id",
+    "locator": "son1aifirstname"
+  },
+  "son2aifirstname": {
+    "type": "id",
+    "locator": "son2aifirstname"
+  },
+  "son3aifirstname": {
+    "type": "id",
+    "locator": "son3aifirstname"
+  },
+  "son4aifirstname": {
+    "type": "id",
+    "locator": "son4aifirstname"
+  },
+  "son1lastName": {
+    "type": "id",
+    "locator": "son1lastName"
+  },
+  "son2lastName": {
+    "type": "id",
+    "locator": "son2lastName"
+  },
+  "son3lastName": {
+    "type": "id",
+    "locator": "son3lastName"
+  },
+  "son4lastName": {
+    "type": "id",
+    "locator": "son4lastName"
+  },
+  "son1weight": {
+    "type": "id",
+    "locator": "son1weight"
+  },
+  "son2weight": {
+    "type": "id",
+    "locator": "son2weight"
+  },
+  "son3weight": {
+    "type": "id",
+    "locator": "son3weight"
+  },
+  "son4weight": {
+    "type": "id",
+    "locator": "son4weight"
+  },
+  "son1aiheightfeet": {
+    "type": "classname",
+    "locator": "son1aiheightfeet"
+  },
+  "son2aiheightfeet": {
+    "type": "classname",
+    "locator": "son2aiheightfeet"
+  },
+  "son3aiheightfeet": {
+    "type": "classname",
+    "locator": "son3aiheightfeet"
+  },
+  "son4aiheightfeet": {
+    "type": "classname",
+    "locator": "son4aiheightfeet"
+  },
+  "daughter1aifirstname": {
+    "type": "id",
+    "locator": "daughter1aifirstname"
+  },
+  "daughter2aifirstname": {
+    "type": "id",
+    "locator": "daughter2aifirstname"
+  },
+  "daughter3aifirstname": {
+    "type": "id",
+    "locator": "daughter3aifirstname"
+  },
+  "daughter4aifirstname": {
+    "type": "id",
+    "locator": "daughter4aifirstname"
+  },
+  "daughter1lastName": {
+    "type": "id",
+    "locator": "daughter1lastName"
+  },
+  "daughter2lastName": {
+    "type": "id",
+    "locator": "daughter2lastName"
+  },
+  "daughter3lastName": {
+    "type": "id",
+    "locator": "daughter3lastName"
+  },
+  "daughter4lastName": {
+    "type": "id",
+    "locator": "daughter4lastName"
+  },
+  "daughter1weight": {
+    "type": "id",
+    "locator": "daughter1weight"
+  },
+  "daughter2weight": {
+    "type": "id",
+    "locator": "daughter2weight"
+  },
+  "daughter3weight": {
+    "type": "id",
+    "locator": "daughter3weight"
+  },
+  "daughter4weight": {
+    "type": "id",
+    "locator": "daughter4weight"
+  },
+  "daughter1aiheightfeet": {
+    "type": "classname",
+    "locator": "daughter1aiheightfeet"
+  },
+  "daughter2aiheightfeet": {
+    "type": "classname",
+    "locator": "daughter2aiheightfeet"
+  },
+  "daughter3aiheightfeet": {
+    "type": "classname",
+    "locator": "daughter3aiheightfeet"
+  },
+  "daughter4aiheightfeet": {
+    "type": "classname",
+    "locator": "daughter4aiheightfeet"
+  },
+  "policyinfo": {
+    "type": "classname",
+    "locator": "policyinfo"
+  },
+  "policyinfopolicystartdate": {
+    "type": "classname",
+    "locator": "policystartdate"
+  },
+  "policyinfopolicyenddate": {
+    "type": "classname",
+    "locator": "policyenddate"
+  },
+  "policyinfoncbpercentage": {
+    "type": "classname",
+    "locator": "ncbpercentage"
+  },
+  "policyinfopreviouspolicystartdate": {
+    "type": "classname",
+    "locator": "previouspolicystartdate"
+  },
+  "policyinfopreviouspolicyexpdate": {
+    "type": "classname",
+    "locator": "previouspolicyexpdate"
+  },
+  "policyinfopreviouspolicyinsurer": {
+    "type": "classname",
+    "locator": "previouspolicyinsurer"
+  },
+  "policyinfopreviouspolicynumber": {
+    "type": "classname",
+    "locator": "previouspolicynumber"
+  },
+  "policyinfoadditionalcover": {
+    "type": "classname",
+    "locator": "additionalcover"
+  },
+  "policyinfoclaimed": {
+    "type": "classname",
+    "locator": "claimed"
+  },
+  "policyinfoloanprovider": {
+    "type": "classname",
+    "locator": "loanprovider"
+  },
+  "externalfited": {
+    "type": "classname",
+    "locator": "externalfited"
+  },
+  "externalfitted": {
+    "type": "classname",
+    "locator": "externalfitted"
+  },
+  "selectexternalfitted": {
+    "type": "classname",
+    "locator": "selectexternalfitted"
+  },
+  "nextbutton": {
+    "type": "classname",
+    "locator": "nextbutton"
+  },
+  "nextclass": {
+    "type": "classname",
+    "locator": "nextclass"
+  },
+  "externalvalue": {
+    "type": "classname",
+    "locator": "externalvalue"
+  },
+  "lpgvalue": {
+    "type": "id",
+    "locator": "input"
+  },
+  "isClaimed_radiobtn": {
+    "type": "classname",
+    "locator": "isClaimed_radiobtn"
+  },
+
+
+  "srroot": {
+    "type": "classname",
+    "locator": "MuiPaper-root"
+  },
+  "Electrical": {
+    "type": "classname",
+    "locator": "Electrical"
+  },
+  "Non-Electrical": {
+    "type": "classname",
+    "locator": "Non-Electrical"
+  },
+  "otperror": {
+    "type": "classname",
+    "locator": "otperror"
+  },
+  "input": {
+    "type": "id",
+    "locator": "input"
+  },
+  "input-0": {
+    "type": "classname",
+    "locator": "input-0"
+  },
+  "editclaim_yes": {
+    "type": "classname",
+    "locator": "pastyearyes"
+  },
+  "editclaim_no": {
+    "type": "classname",
+    "locator": "pastyearno"
+  },
+  "editncbpro_yes": {
+    "type": "classname",
+    "locator": "ncbprotectoryes"
+  },
+  "editncbpro_yess": {
+    "type": "xpath",
+    "locator": "//*[text()='Is NCB Protector Available in the Existing Policy?']"
+  },
+  "editncbpro_no": {
+    "type": "classname",
+    "locator": "ncbprotectorno"
+  },
+  "editclaim_no-owner_yes": {
+    "type": "classname",
+    "locator": "ownershipchangedyes"
+  },
+  "editclaim-no-owner_no": {
+    "type": "classname",
+    "locator": "ownershipchangedno"
+  },
+  "editclosebtn":{
+    "type": "xpath",
+    "locator": "/html[1]/body[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/button[1]"
+  },
+  "summaryerrorinfo":{
+    "type": "className",
+    "locator": "ValidationError__ValidationErrorStyledComponent-sc-1pz5p3e-0"
+  },
+  "quotespremiumblock":{
+    "type": "className",
+    "locator": "priceblock"
+  },
+  "healthpremiumAmount":{
+    "type": "className",
+    "locator": "quotespremiumamount"
+  },
+  "quotespremiumamount":{
+    "type": "className",
+    "locator": "priceAmount"
+  },
+  "quotesidv":{
+    "type": "className",
+    "locator": "quotesidv"
+  },
+  "quotesidvblock":{
+    "type": "className",
+    "locator": "quotesidvblock"
+  },
+  "quotesidvpremium":{
+    "type": "className",
+    "locator": "quotesidvpremium"
+  }
+,
+  "checkoutIdv":{
+    "type": "className",
+    "locator": "checkoutIdv"
+  }
+,
+  "checkoutIdvvalue":{
+    "type": "className",
+    "locator": "checkoutIdvvalue"
+  }
+,
+  "quotesvehicledetails":{
+    "type": "className",
+    "locator": "quotesvehicledetails"
+  },
+  "editvehicle":{
+    "type": "className",
+    "locator": "editquotes"
+  }
+,
+  "quotesmakemodel":{
+    "type": "className",
+    "locator": "quotesmakemodel"
+  }
+,
+  "quotesrtoblock":{
+    "type": "className",
+    "locator": "quotesrtoblock"
+  }
+,
+  "quotesrtodetails":{
+    "type": "className",
+    "locator": "quotesrtodetails"
+  }
+,
+  "getregfillNumber":{
+    "type": "xpath",
+    "locator": "//*[@id=\"__next\"]/div[1]/section/div[1]/div[2]/div[3]/h4"
+  }
+,
+  "checkoutpremiumblock":{
+    "type": "className",
+    "locator": "checkoutpremiumblock"
+  }
+,
+  "checkoutpremiumvalue":{
+    "type": "className",
+    "locator": "checkoutpremiumvalue"
+  }
+,
+  "checkoutrtoblock":{
+    "type": "className",
+    "locator": "checkoutrtoblock"
+  }
+,
+  "checkoutrtodetails":{
+    "type": "className",
+    "locator": "checkoutrtodetails"
+  }
+,
+  "checkoutmakemodelblock":{
+    "type": "className",
+    "locator": "checkoutmakemodelblock"
+  },
+  "checkoutmakemodeldetails":{
+    "type": "className",
+    "locator": "checkoutmakemodeldetails"
+  },
+  "addonblock":{
+    "type": "className",
+    "locator": "addonblock"
+  },
+  "selectedaddon":{
+    "type": "className",
+    "locator": "selectedaddon"
+  },
+  "discounts":{
+    "type": "className",
+    "locator": "discounts"
+  },
+  "addoncovers":{
+    "type": "className",
+    "locator": "addoncovers"
+  },
+  "premiumbreakup":{
+    "type": "className",
+    "locator": "premiumbreakup"
+  },
+  "breakupclose":{
+    "type": "className",
+    "locator": "breakupclose"
+  },
+  "editidv":{
+    "type": "className",
+    "locator": "editidv"
+  },
+  "idvsubmit":{
+    "type": "className",
+    "locator": "idvsubmit"
+  }
+,
+  "deleterow":{
+    "type": "className",
+    "locator": "deleterow"
+  }
+,
+  "emailquotes":{
+    "type": "className",
+    "locator": "emailquotes"
+  }
+,
+  "customeremail":{
+    "type": "className",
+    "locator": "inputemail"
+  }
+,
+  "inputcustomeremail":{
+    "type": "className",
+    "locator": "inputcustomeremail"
+  }
+,
+  "customermobile":{
+    "type": "className",
+    "locator": "customermobile"
+  }
+,
+  "inputcustomermobile":{
+    "type": "className",
+    "locator": "inputmobile"
+  }
+,
+  "emailsubmit":{
+    "type": "className",
+    "locator": "emailsubmit"
+  },
+  "hdfcCardno":{
+    "type": "id",
+    "locator": "txtCardNo"
+  }
+,
+  "hdfcPinno":{
+    "type": "id",
+    "locator": "txtPinNo"
+  },
+  "myaccountpolicyblock":{
+    "type": "className",
+    "locator": "myaccountpolicyblock"
+  },
+  "sidepolicydetails":{
+    "type": "className",
+    "locator": "sidepolicydetails"
+  },
+  "policydetails":{
+    "type": "className",
+    "locator": "policydetails"
+  }
+,
+  "premiumblock":{
+    "type": "className",
+    "locator": "premiumblock"
+  }
+,
+  "policynocheck":{
+    "type": "className",
+    "locator": "policynocheck"
+  }
+,
+  "odpremium":{
+    "type": "className",
+    "locator": "odpremium"
+  }
+,
+  "nameblock":{
+    "type": "className",
+    "locator": "nameblock"
+  }
+,
+  "existingliabilitypolicy":{
+    "type": "className",
+    "locator": "existing_tp_policy_insurer"
+  }
+,
+  "existing_tp_policy_number":{
+    "type": "className",
+    "locator": "acprevtppolicynumber"
+  }
+,
+  "liablitystartdate":{
+    "type": "className",
+    "locator": "acprevioustppolicystartdate"
+  }
+,
+  "liablityenddate":{
+    "type": "className",
+    "locator": "acprevtppolicyenddate"
+  }
+,
+  "existingtppolicy":{
+    "type": "className",
+    "locator": "existingtppolicy"
+  },
+  "healthpolicydropdown":{
+    "type": "className",
+    "locator": "healthpolicydropdown"
+  },
+  "getquotesnsurertypes":{
+    "type": "className",
+    "locator": "MuiPopover-paper"
+  },
+  "citynames":{
+    "type": "className",
+    "locator": "MuiPopover-paper"
+  },
+  "idproofnames":{
+    "type": "className",
+    "locator": "MuiPopover-paper"
+  },
+  "enquirysuminsured":{
+    "type": "className",
+    "locator": "enquirysuminsured"
+  },
+  "insuredmembers":{
+    "type": "className",
+    "locator": "Insured-members"
+  },
+  "enquirypincode":{
+    "type": "className",
+    "locator": "enquirypincode"
+  },
+
+  "pincodelist":{
+    "type": "className",
+    "locator": "MuiPaper-root"
+  },
+  "genderlist":{
+    "type": "className",
+    "locator": "MuiFormGroup-root"
+  },
+
+  "selfDOB":{
+    "type": "className",
+    "locator": "selfDOB"
+  },
+  "fatherweight":{
+    "type": "id",
+    "locator": "fatherweight"
+  },
+  "fatheraiheightfeet":{
+    "type": "className",
+    "locator": "fatheraiheightfeet"
+  },
+  "motheraifirstname":{
+    "type": "id",
+    "locator": "motheraifirstname"
+  },
+  "motherlastName":{
+    "type": "id",
+    "locator": "motherlastName"
+  },
+  "fatheraifirstname":{
+    "type": "id",
+    "locator": "fatheraifirstname"
+  },
+  "fatherlastName":{
+    "type": "id",
+    "locator": "fatherlastName"
+  },
+
+  "motherweight":{
+    "type": "className",
+    "locator": "motherweight"
+  },
+
+  "motheraiheightfeet":{
+    "type": "className",
+    "locator": "motheraiheightfeet"
+  },
+
+  "healthSelfDOB":{
+    "type": "className",
+    "locator": "selfdob"
+  },
+  "selfheight":{
+    "type": "xpath",
+    "locator": "//*[@id=\"menu-\"]/div[3]/ul"
+  },
+  "spouseheight":{
+    "type": "className",
+    "locator": "spouseaiheightfeet"
+  },
+  "selfinch":{
+  "type": "xpath",
+  "locator": "//*[@id=\"__next\"]/div[1]/section/div[1]/div[1]/section[1]/form/div[1]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[3]/div/div/div"
+},
+"spouseinch":{
+"type": "xpath",
+"locator": "//*[@id=\"__next\"]/div[1]/section/div[1]/div[1]/section[1]/form/div[2]/div/div[2]/div/div/div/div/div[2]/div[2]/div/div[3]/div/div/div"
+},
+  "gridouterblock":{
+    "type": "className",
+    "locator": "cCnvog"
+  },
+  "gridinnerblock":{
+    "type":"className",
+    "locator":"gridinnerblock"
+  },
+  "spouseDOB":{
+    "type":"className",
+    "locator":"spouseDOB"
+  },
+  "firstSonDOB":{
+    "type":"className",
+    "locator":"SonDOB_0"
+  },
+  "secondSonDOB":{
+    "type": "className",
+    "locator": "SonDOB_1"
+  },
+  "thirdSonDOB":{
+    "type": "className",
+    "locator": "SonDOB_2"
+  },
+  "fourthSonDOB":{
+    "type": "className",
+    "locator": "SonDOB_3"
+  },
+  "firstDaughterDOB":{
+    "type": "className",
+    "locator": "DaughterDOB_0"
+  },
+  "secondDaughterDOB":{
+    "type": "className",
+    "locator": "DaughterDOB_1"
+  },
+  "thirdDaughterDOB":{
+    "type": "className",
+    "locator": "DaughterDOB_2"
+  },
+  "fourthDaughterDOB":{
+    "type": "className",
+    "locator": "DaughterDOB_3"
+  },
+  "addSonButton":{
+    "type": "className",
+    "locator": "AddSonButton"
+  },
+  "addDaughterButton":{
+    "type": "className",
+    "locator": "AddDaughterButton"
+  },
+  "savequote":{
+    "type": "className",
+    "locator": "savequote"
+  },
+  "sendanyway":{
+    "type": "xpath",
+    "locator": "//*[@id='proceed-button']"
+  },
+  "submitbutton":{
+    "type": "id",
+    "locator": "Button1"
+  },
+  "verifykyctext":{
+    "type": "xpath",
+    "locator": "//*[@class=\"Span-sc-1c496bc-0 health__Info-w5x3o-1 hmYeZR\"]"
+  }
+}

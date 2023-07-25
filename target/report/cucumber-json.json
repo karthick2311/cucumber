@@ -1,0 +1,452 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 27,
+        "name": "To validate whether user is landed on the homepage",
+        "description": "",
+        "id": "car-insurance-renewal;to-validate-whether-user-is-landed-on-the-homepage;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 214402666,
+              "error_message": "java.lang.NullPointerException\n\tat java.util.Objects.requireNonNull(Objects.java:203)\n\tat org.openqa.selenium.support.ui.FluentWait.\u003cinit\u003e(FluentWait.java:106)\n\tat org.openqa.selenium.support.ui.WebDriverWait.\u003cinit\u003e(WebDriverWait.java:85)\n\tat org.openqa.selenium.support.ui.WebDriverWait.\u003cinit\u003e(WebDriverWait.java:45)\n\tat com.arka.e2etest.stepdefinitions.Homepage.user_select_the_product_as(Homepage.java:87)\n\tat ✽.Given User select the product as \"car\"(src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature:21)\n",
+              "status": "failed"
+            },
+            "line": 21,
+            "name": "User select the product as \"car\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "car",
+                  "offset": 28
+                }
+              ],
+              "location": "Homepage.user_select_the_product_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "User enter the car number as \"TN-34-AY-2345\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TN-34-AY-2345",
+                  "offset": 30
+                }
+              ],
+              "location": "Homepage.user_enter_the_car_number_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "User clicks on Get Quotes button",
+            "match": {
+              "location": "Homepage.user_clicks_on_Get_Quotes_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "User verify the zoop status",
+            "match": {
+              "location": "Homepage.user_verify_the_zoop_status()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 19,
+            "name": "@home_page"
+          }
+        ]
+      },
+      {
+        "line": 42,
+        "name": "Validation of enquiry page with zoop",
+        "description": "",
+        "id": "car-insurance-renewal;validation-of-enquiry-page-with-zoop;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6704875,
+              "error_message": "java.lang.NullPointerException\n\tat java.util.Objects.requireNonNull(Objects.java:203)\n\tat org.openqa.selenium.support.ui.FluentWait.\u003cinit\u003e(FluentWait.java:106)\n\tat org.openqa.selenium.support.ui.WebDriverWait.\u003cinit\u003e(WebDriverWait.java:85)\n\tat org.openqa.selenium.support.ui.WebDriverWait.\u003cinit\u003e(WebDriverWait.java:45)\n\tat com.arka.e2etest.stepdefinitions.Enquirypage.user_edits_the_zoop_manufacturer_year_as(Enquirypage.java:352)\n\tat ✽.Given User edits the zoop manufacturer year as \"3223\"(src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature:31)\n",
+              "status": "failed"
+            },
+            "line": 31,
+            "name": "User edits the zoop manufacturer year as \"3223\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3223",
+                  "offset": 42
+                }
+              ],
+              "location": "Enquirypage.user_edits_the_zoop_manufacturer_year_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "User edits the zoop registration date as \"3232\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3232",
+                  "offset": 42
+                }
+              ],
+              "location": "Enquirypage.user_edits_the_zoop_registration_date_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 33,
+            "name": "User edits the zoop policy expiry date as \"3232\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3232",
+                  "offset": 43
+                }
+              ],
+              "location": "Enquirypage.user_edits_the_zoop_policy_expiry_date_as(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "User clicks the proceed button",
+            "match": {
+              "location": "Enquirypage.user_clicks_the_proceed_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "User select policy claim status \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 33
+                }
+              ],
+              "location": "Enquirypage.user_select_policy_claim_status(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 36,
+            "name": "User select the vehicle ownership change status in zoop flow \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 62
+                }
+              ],
+              "location": "Enquirypage.user_select_the_vehicle_ownership_change_status_in_zoop_flow(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "User select the value of NCB status in zoop flow \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 50
+                }
+              ],
+              "location": "Enquirypage.user_select_the_value_of_NCB_status_in_zoop_flow(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "User select the NCB percentage in zoop flow \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 45
+                }
+              ],
+              "location": "Enquirypage.user_select_the_NCB_percentage_in_zoop_flow(String)"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 39,
+            "name": "User clicks the submit button",
+            "match": {
+              "location": "Enquirypage.user_clicks_the_submit_button()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 29,
+            "name": "@enquiry_with_zoop"
+          }
+        ]
+      },
+      {
+        "line": 84,
+        "name": "Quotes page",
+        "description": "",
+        "id": "car-insurance-renewal;quotes-page;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6817500,
+              "status": "passed"
+            },
+            "line": 71,
+            "name": "User is landed on the quotes page successfully",
+            "match": {
+              "location": "Quotespage.user_is_landed_on_the_quotes_page_successfully()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 166458,
+              "error_message": "java.lang.NullPointerException\n\tat java.util.Objects.requireNonNull(Objects.java:203)\n\tat org.openqa.selenium.support.ui.FluentWait.\u003cinit\u003e(FluentWait.java:106)\n\tat org.openqa.selenium.support.ui.WebDriverWait.\u003cinit\u003e(WebDriverWait.java:85)\n\tat org.openqa.selenium.support.ui.WebDriverWait.\u003cinit\u003e(WebDriverWait.java:45)\n\tat com.arka.e2etest.stepdefinitions.Quotespage.user_edit_the_IDV_value_as(Quotespage.java:283)\n\tat ✽.And User edit the IDV value as \"\"(src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature:72)\n",
+              "status": "failed"
+            },
+            "line": 72,
+            "name": "User edit the IDV value as \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 28
+                }
+              ],
+              "location": "Quotespage.user_edit_the_IDV_value_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 73,
+            "name": "User choose the PAOwnerDriver option as \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 41
+                }
+              ],
+              "location": "Quotespage.user_choose_the_PAOwnerDriver_option_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 74,
+            "name": "User select the policy type as \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 32
+                }
+              ],
+              "location": "Quotespage.user_select_the_policy_type_as(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 75,
+            "name": "User select the vahicleowned by option",
+            "match": {
+              "location": "Quotespage.user_select_the_vahicleowned_by_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "comments": [
+              {
+                "line": 76,
+                "value": "#  And    User select the addon as \"\u003caddon_status\u003e\""
+              }
+            ],
+            "line": 77,
+            "name": "User select the multitenure option as \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 39
+                }
+              ],
+              "location": "Quotespage.user_select_the_multitenure_option_as(String)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 78,
+            "name": "User get the quotes details",
+            "match": {
+              "location": "Quotespage.user_get_the_quotes_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 79,
+            "name": "User select the compare page",
+            "match": {
+              "location": "Quotespage.user_select_the_compare_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 80,
+            "name": "User click the buy from compare page",
+            "match": {
+              "location": "Quotespage.user_click_the_buy_from_compare_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 81,
+            "name": "User clicks the motor buy button as \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 37
+                }
+              ],
+              "location": "Quotespage.User_clicks_the_motor_buy_button_as(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "line": 69,
+            "name": "@quotes_page"
+          }
+        ]
+      }
+    ],
+    "name": "car insurance renewal",
+    "description": "",
+    "id": "car-insurance-renewal",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/car/renewal/expired/comprehensive/individual/hdfc/hdfc_comprehensive.feature"
+  }
+]
